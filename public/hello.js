@@ -1,4 +1,4 @@
 
 export function hello() {
-  return 'hi from js'
+  return 'hi from JS'
 }
